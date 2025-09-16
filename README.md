@@ -1,6 +1,9 @@
 # ***cyclic**
 ![cyclic_logo](graph_draw_output3.png)
 
+An overview/wiki of esolangs can be found here: https://esolangs.org/wiki/Main_Page
+
+(this project is on hiatus as I complete a mathematics research project that I have been working on for the past 6 months.)
 *cyclic*: the functional, group-theoretical, cyclic group-based esoteric programming language.
 
 [![License](https://poser.pugx.org/aimeos/aimeos-typo3/license.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
